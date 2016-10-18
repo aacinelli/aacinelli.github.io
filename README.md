@@ -1,2 +1,2 @@
 # My new blog
-test
+I am only following this tutorial: http://jmcglone.com/guides/github-pages/ 
